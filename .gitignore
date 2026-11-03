@@ -1,0 +1,52 @@
+# ==============================
+# PowerDesigner (temporales y respaldos)
+# ==============================
+# Respaldos automaticos que PowerDesigner genera al guardar
+*.oob
+*.cdb
+*.pdb
+*.pjb
+*.bpb
+*.fmb
+*.bak
+*.sbk
+*.lck
+
+# ==============================
+# Microsoft Word / Excel / PowerPoint (archivos de bloqueo y temporales)
+# ==============================
+~$*
+~*.tmp
+*.tmp
+*.asd
+*.wbk
+
+# ==============================
+# LibreOffice (bloqueos)
+# ==============================
+.~lock.*#
+
+# ==============================
+# Sistema operativo
+# ==============================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# ==============================
+# Editores / IDEs
+# ==============================
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+
+# ==============================
+# Logs y basura general
+# ==============================
+*.log
+*~
+*.swp
